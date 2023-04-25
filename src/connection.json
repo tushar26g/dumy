@@ -1,0 +1,22 @@
+[
+    {
+        "connectionId": 1,
+        "customerId": 1,
+        "startDate": "13-02-2020",
+        "approvedOfficerId": 2,
+        "currentDue": 1300,
+        "lastBillDate": "02-09-2022",
+        "lastPaidDate": "28-08-2022",
+        "lastPaidAmount": 1205 
+    },
+    {
+        "connectionId": 2,
+        "customerId": 1,
+        "startDate": "15-03-2021",
+        "approvedOfficerId": 2,
+        "currentDue": 300,
+        "lastBillDate": "02-09-2022",
+        "lastPaidDate": "28-08-2022",
+        "lastPaidAmount": 605 
+    }
+]

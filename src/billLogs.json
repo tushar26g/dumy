@@ -1,0 +1,20 @@
+[
+    {
+        "billLogId": 1,
+        "connectionId": 1,
+        "timestamp": "2021-09-25 17:45:30.005",
+        "amount": 1200,
+        "description": "Monthly Charges",
+        "month": "September",
+        "officerId": 1
+    },
+    {
+        "billLogId": 2,
+        "connectionId": 1,
+        "timestamp": "2021-10-25 06:45:30.005",
+        "amount": 900,
+        "description": "Monthly Charges",
+        "month": "October",
+        "officerId": 1
+    }
+]
